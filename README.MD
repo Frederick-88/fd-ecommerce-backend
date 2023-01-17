@@ -9,3 +9,7 @@
 - with git push
 
 ### When set it up in cloudflare, you need to set the SSL till flexible. So your AWS Settings could come in.
+
+
+### References :
+- Vercel Deployment = https://www.youtube.com/watch?v=vCuf62T2snY
