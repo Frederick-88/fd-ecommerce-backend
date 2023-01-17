@@ -14,3 +14,8 @@
 ### References :
 - Vercel Deployment = https://www.youtube.com/watch?v=vCuf62T2snY
 - Vercel Deployment Issue Fix = https://stackoverflow.com/a/74119367
+
+### Previous Urls :
+- https://s2-ecommerce-api.vercel.app/ ( current-active )
+- https://api-ecommerce.fdtech.asia/
+- https://s2-ecommerce-react.herokuapp.com/
